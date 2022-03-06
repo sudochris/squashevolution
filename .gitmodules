@@ -1,0 +1,9 @@
+[submodule "evolution-resectioning"]
+	path = evolution-resectioning
+	url = https://github.com/sudochris/evolution-resectioning.git
+[submodule "evolution-evaluation"]
+	path = evolution-evaluation
+	url = https://github.com/sudochris/evolution-evaluation.git
+[submodule "evolution-results"]
+	path = evolution-results
+	url = https://github.com/sudochris/evolution-results.git
