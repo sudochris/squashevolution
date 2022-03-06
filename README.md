@@ -4,11 +4,11 @@
 
 ### Submodule overview:
 
-| Submodule         | Content                                                |
-| :---------------- | :----------------------------------------------------- |
-| pannotator        | Object instance and event annotation tool              |
-| squashfeetdata    | Dataset created using pannotator and used in the paper |
-| squashfeettoolkit | Toolkit used to evaluate the dataset                   |
+| Submodule              | Content                                                                |
+| :--------------------- | :--------------------------------------------------------------------- |
+| evolution-resectioning | Genetic algorithm implementation for camera resectioning in squash     |
+| evolution-evaluation   | Evaluation of the genetic algorithm for application in squash          |
+| evolution-results      | Results and figures of the genetic algorithm for application in squash |
 
 ### Citation
 
