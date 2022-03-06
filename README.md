@@ -1,6 +1,6 @@
 [![orcid](https://img.shields.io/badge/orcid-0000--0002--4117--2541-informational?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0002-4117-2541)
 
-## Meta repository for "TBA"
+## Meta repository for "Evolution Based Single Camera Resectioning Based on Distance Maps of a known Geometry for Squash Sports"
 
 ### Submodule overview:
 
